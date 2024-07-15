@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"data","l":"Filmes"},{"p":"data","l":"FilmesDao"},{"p":"cenaflix","l":"TelaAtualização"},{"p":"cenaflix","l":"TelaCadastro"},{"p":"cenaflix","l":"TelaConsulta"},{"p":"cenaflix","l":"TelaExclusão"},{"p":"cenaflix","l":"TelaInicial"}];updateSearchResults();
